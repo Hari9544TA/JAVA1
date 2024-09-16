@@ -7,3 +7,4 @@ public class LAB001 {
         System.out.println(c);
     }
 }
+    
